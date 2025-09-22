@@ -1,0 +1,7 @@
+Cover Thumbnail : [https://www.figma.com/design/GzDseHTHSGclGzSBjXRkGb/eWallet?node-id=150-499&t=Gci6qpN1tMxMyyZ4-1]
+Mobile LoFi : [https://www.figma.com/design/GzDseHTHSGclGzSBjXRkGb/eWallet?node-id=0-1&t=Gci6qpN1tMxMyyZ4-1]
+Desktop LoFi : [https://www.figma.com/design/GzDseHTHSGclGzSBjXRkGb/eWallet?node-id=32-371&t=Gci6qpN1tMxMyyZ4-1]
+Mobile HiFi : [https://www.figma.com/design/GzDseHTHSGclGzSBjXRkGb/eWallet?node-id=13-248&t=Gci6qpN1tMxMyyZ4-1]
+Desktop HiFi : [https://www.figma.com/design/GzDseHTHSGclGzSBjXRkGb/eWallet?node-id=32-386&t=Gci6qpN1tMxMyyZ4-1]
+Components : [https://www.figma.com/design/GzDseHTHSGclGzSBjXRkGb/eWallet?node-id=398-302&t=Gci6qpN1tMxMyyZ4-1]
+Style Guide : [https://www.figma.com/design/GzDseHTHSGclGzSBjXRkGb/eWallet?node-id=51-193&t=Gci6qpN1tMxMyyZ4-1]

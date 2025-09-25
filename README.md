@@ -1,7 +1,6 @@
 # FlowIN — E‑Wallet Application (Figma) — Full README
 
-> This document collects every page, style, component, and design decision you provided for the FlowIN e‑wallet Figma project. It's intentionally exhaustive — copy everything from here into your repository or presentation.
-
+> This document collects every page, style, component, and design decision you provided for the FlowIN e‑wallet Figma project.
 ---
 
 ## Table of Contents
@@ -411,12 +410,3 @@ Button/Secondary/Outline
 - `Purchase` confirmation → `Your order is on the way. Check email for tracking info.`
 
 ---
-
-### Final note
-This README is comprehensive and intentionally prescriptive to give you an immediate exportable document to accompany your Figma project. If you want, I can also:
-
-- generate a GitHub-ready `README.md` file with embedded thumbnails (images)
-- produce a condensed 1‑page project summary for a portfolio
-- produce a developer handoff checklist JSON or CSV to attach to the repo
-
-Tell me which of those you'd like next and I'll prepare it and add it into the same canvas file.
